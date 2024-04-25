@@ -1,0 +1,10 @@
+body{
+    width: 2048px;
+}
+div{
+    font-size: 50px;
+    background-color: black;
+    color: white;
+    width: 80vmin;
+    height: 70vmax;
+}
